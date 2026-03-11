@@ -1,6 +1,6 @@
 # Hi, I'm Nico! 👋
 
-I am a sophomore Computer Science student and undergraduate researcher passionate about using autonomous systems and software engineering for environmental conservation. 
+I am a Computer Science student and undergraduate researcher passionate about using autonomous systems and software engineering for environmental conservation. 
 
 Currently, I am focused on the intersection of hardware and software, building tools that can process complex environmental data to monitor and protect our natural ecosystems.
 
