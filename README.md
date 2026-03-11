@@ -1,11 +1,28 @@
-I'm Nico, a Computer Science student focused on the intersection of robotics, systems, and creative design. Whether I'm configuring LiDAR sensors for research or hand-carving wooden spoons, I’m always driven by the process of building things from scratch.
+# Hi, I'm Nico! 👋
 
-🔭 I’m currently working on: The Smart Fires Rover Project, where I'm integrating ROS 2, LiDAR, and GPS systems on a Raspberry Pi 5 to help monitor forest health. I'm also in the middle of designing a custom deck-building board game!
+I am a sophomore Computer Science student and undergraduate researcher passionate about using autonomous systems and software engineering for environmental conservation. 
 
-🌱 I’m currently learning: The intricacies of cellular automata. I just made conways game of life and am facinated by other fun applications of cellular automata.
+Currently, I am focused on the intersection of hardware and software, building tools that can process complex environmental data to monitor and protect our natural ecosystems.
 
-👯 I’m looking to collaborate on: Open-source robotics projects or indie game development.
+### 🔭 What I'm Working On
+* 🌲 **Smart Fires Rover Project:** I am part of an undergraduate research team building an autonomous rover for monitoring forest health. My work focuses on integrating **LiDAR** and **GPS** systems, and developing the perception and navigation stack using **ROS 2** on a **Raspberry Pi 5**.
+* 🎲 **Game Design & Architecture:** Designing the core mechanics, rule systems, and relational database schemas for a deck-building board game.
+* 📚 **Academics:** Currently balancing a rigorous 18-credit course load, deepening my foundational knowledge in computer science.
 
-📫 How to reach me: carlson.nico@gmail.com 
+### 💻 Tech Stack & Tools
+* **Robotics & Hardware:** ROS 2, Raspberry Pi 5, LiDAR, GPS Integration
+* **Systems & Architecture:** Linux (ubuntu), Database Design & Schemas
+* **Concepts:** Autonomous Navigation, Environmental Data Processing, Game Logic
 
-😄 Pronouns: he/him
+### 🌱 Outside the Terminal
+When I'm stepping away from my keyboard, you can usually find me:
+* 🍞 Dialing in the levain formulas for my spelt sourdough bread.
+* 🪴 Tending to my houseplants and propagating my golden pothos and snake plants.
+* 🪵 Hand-carving and finishing wooden spoons. 
+* ⛰️ Hiking out in Glacier National Park
+
+### 📫 Let's Connect!
+* **Email:** carlson.nico@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/nicholas-carlson-649ab039a/ (WIP)
+
+---
