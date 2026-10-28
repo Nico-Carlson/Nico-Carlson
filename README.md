@@ -1,28 +1,21 @@
-# Hi, I'm Nico! 👋
+# Hi, I'm Nico! 
 
-I am a Computer Science student and undergraduate researcher passionate about using autonomous systems and software engineering for environmental conservation. 
+Software Developer, IT Systems Administrator, and Undergraduate Researcher. Currently studying Software Development at Flathead Valley Community College while building autonomous robotics systems and managing production IT infrastructure.
 
-Currently, I am focused on the intersection of hardware and software, building tools that can process complex environmental data to monitor and protect our natural ecosystems.
+### Research
+- **SMART FIRES Rover Project:** Engineering the autonomous ROS 2 navigation and perception system for an autonomous forest-monitoring rover.
+- **Simulation & Validation:** Designing physics and sensor simulations in Gazebo and rviz2 to stress-test navigation stacks, IMU, LiDAR, and motor control parameters.
 
-### 🔭 What I'm Working On
-* **Smart Fires Rover Project:** I am part of an undergraduate research team building an autonomous rover for monitoring forest health. My work focuses on integrating **LiDAR** and **GPS** systems, and developing the perception and navigation stack using **ROS 2** on a **Raspberry Pi 5**.
-* **Game Design & Architecture:** Designing the core mechanics, rule systems, and relational database schemas for a deck-building board game.
-* **Academics:** Currently balancing an 18-credit course load, deepening my foundational knowledge in computer science.
+### Work
+- **Database & Systems Administration (Glacier Clothing Company):** Maintaining multi-site Claris FileMaker Pro databases and managing enterprise macOS infrastructure via Mosyle MDM.
+- **Full-Stack & Systems Tooling:** Developing relational database backends, applications to track orders and streamline production jobs. 
 
-### 💻 Tech Stack & Tools
-* **Robotics & Hardware:** ROS 2, Raspberry Pi 5, LiDAR, GPS Integration
-* **Systems & Architecture:** Linux (ubuntu), Database Design & Schemas
-* **Concepts:** Autonomous Navigation, Environmental Data Processing, Game Logic
+### Tech Stack & Tools
+- **Robotics & Embedded:** ROS 2, Gazebo, rviz2, LiDAR, GPS, Raspberry Pi, ESP32
+- **Languages:** Python, C++, Java, SQL, PHP, Bash/Fish, JavaScript
+- **Databases & Enterprise:** Claris FileMaker Pro, MySQL, Mosyle MDM, Apple Business Manager
+- **Operating Systems & Dev Tools:** Linux (Arch, Ubuntu Server), macOS, Git, Neovim
 
-### 🌱 Outside the Terminal
-When I'm stepping away from my keyboard, you can usually find me:
-* Dialing in the levain formulas for my spelt sourdough bread.
-* Tending to my houseplants and propagating my golden pothos and snake plants.
-* Hand-carving and finishing wooden spoons. 
-* Hiking out in Glacier National Park
-
-### 📫 Let's Connect!
-* **Email:** carlson.nico@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/nicholas-carlson-649ab039a/ (WIP)
-
----
+### Get in Touch
+- **Email:** carlson.nico@gmail.com
+- **LinkedIn:** [linkedin.com/in/nicholas-carlson-649ab039a](https://www.linkedin.com/in/nicholas-carlson-649ab039a)
